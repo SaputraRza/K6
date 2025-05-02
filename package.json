@@ -11,15 +11,10 @@
   },
   "author": "Reza Saputra",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/SaputraRza/K6/issues"
   },
   "homepage": "https://github.com/SaputraRza/K6#readme",
-  "description": "",
-  "dependencies": {
-    "k6": "^0.0.0"
-  },
-  "devDependencies": {
-    "@types/k6": "^1.0.2"
-  }
+  "description": ""
 }
