@@ -3,11 +3,11 @@ export function bodyRegister() {
     return {
         username: `user-${uniqueId}`,
         password: 'rahasia',
-        name: 'FDN QA'
+        name: 'Testing'
     }
 }
 
-export function bodyLogin(username){
+export function bodyLogin(username) {
     return {
         username: username,
         password: 'rahasia'

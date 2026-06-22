@@ -1,5 +1,5 @@
-export function bodyPostman(){
+export function bodyPostman() {
     return {
-        test: "value"
+        test: "POST"
     }
 }

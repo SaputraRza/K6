@@ -2,7 +2,7 @@ import { sendGet } from "../../utils/http-helpers.js"
 import { baseUrl } from "../baseUrl/url.js";
 import { header } from "../headers/header.js";
 
-export function detailGet(){
+export function detailGet() {
 
     const forHeader = header
 

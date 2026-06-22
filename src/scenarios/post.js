@@ -12,6 +12,6 @@ export function detailPost(){
     const body = bodyPostman()
 
     const res = sendPost(`${Url}/post`, forHeader)
-    console.log('Get detail postman response: ', res.json())
+    console.log('Get detail postman response post: ', res.json())
     return res
 }
